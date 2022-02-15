@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+   
+    background-image: url(hinhbgdangnhap.jpg)
+}
+.wrap{
+    width: 450px;
+    margin: auto;
+    margin-top: 180px;
+    padding: 20px;
+    border: 1px ;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+
+}
+.wrap h2{
+    text-align: center;
+
+}
+.wrap input{
+    width: 400px;
+    height: 35px;
+    margin-bottom:auto;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+
+
+}
+.wrap .btn-login{
+    margin-top: 10px;
+	margin-left:180px;
+    padding: 20px;
+    background: #FFCCFF;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+
+}
+.wrap a{
+	text-decoration:none;
+	color:#FF6600
+}	
+.wrap a:hover{
+	color: #0099FF
+}
